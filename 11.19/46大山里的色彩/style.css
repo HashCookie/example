@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a1{
+    width: 380px;
+    height: 260px;
+    margin: auto;
+    border: 20px solid;
+    border-color:#6a5c1b #a4985f #a4985f #6a5c1b;
+}
+.a2{
+    width: 350px;
+    height: 230px;
+    margin: auto;
+    border: 15px solid;
+    background-image: url(images/fengjing.jpg);
+    background-size: cover;
+    background-position: center top;
+    border-color: #a4985f #6a5c1b #6a5c1b #a4985f;
+    
+    
+}

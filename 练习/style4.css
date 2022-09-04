@@ -1,0 +1,6 @@
+.outer{
+    border: solid 2px red;
+    height: 270px;
+    overflow: auto;/*超出部分自动添加滚动条*/
+
+}

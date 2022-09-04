@@ -1,0 +1,8 @@
+#divouter1{
+    width: 100%;/*宽度100%，填充整个屏幕*/
+    height: 200px;
+    border: 2px solid red;/*边框*/
+    text-align: center;/*内容水平居中*/
+    display: table-cell;/*此元素会作为一个表格单元格显示（类似<td><th>）*/
+    vertical-align: middle;/*设置内容垂直居中*/
+}

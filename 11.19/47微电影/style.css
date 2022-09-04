@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+dl{
+    width: 400px;
+    height: 280px;
+    border: 1px solid #ccc;
+    margin: 5px auto;
+}
+dt{
+    width: 400px;
+    height: 200px;
+    background-image: url(images/renwu.jpg);
+}
+dd{
+    text-align: center;
+    /*border: 1px solid;*/
+    margin-top:30px;
+}
+a{
+    text-decoration: none;
+    color: rgba(161, 159, 149, 0.829);
+}
+a:hover{
+    color: skyblue;
+}
+dl:hover{
+    border:1px solid rgb(68, 139, 187) ;
+}

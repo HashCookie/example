@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    height:930px;
+    width: 1200px;
+    border: 1px solid #ccc;
+    margin: 5px auto;
+    background-image:url(images/left.jpg) ;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+.two{
+    height:930px;
+    width: 1200px;
+    border: auto 5px;
+    margin: 5px auto;
+    background-image:url(images/right.jpg) ;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+.three{
+    height: 930px;
+    width: 1200px;
+    margin: auto 5px;
+    background: url(images/top.jpg) center top no-repeat;
+}
+.four{
+    height: 930px;
+    width: 1200px;
+    margin: 5px auto;
+    background: url(images/bottom.jpg)center center no-repeat;
+}

@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 200px;
+    margin: 10px;
+    padding: 30px;
+    border: solid 2px red;/*边框*/
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    line-height: 200px;/*设置行高与高度相同，模拟垂直居中*/
+    float: right;
+}

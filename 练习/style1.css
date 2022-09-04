@@ -1,0 +1,7 @@
+.a1{
+    width: 100%;/*k宽度100%，填充整个屏幕*/
+    height: 200px;
+    border: 2px solid red;/*边框*/
+    line-height: 200px;/*内容高度*/
+    text-align: center;/*内容水平居中*/
+}

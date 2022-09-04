@@ -1,0 +1,21 @@
+#borderDiv{
+    width:98%;
+    height: 300px;
+    border: solid red 5px;
+}
+.box{
+    height: 300px;
+    width: 100%;
+    border: 2px solid green;
+    display: flex;/*将对象作为弹性伸缩盒显示*/
+    justify-content:center;/*水平居中*/
+    align-items: center;/*垂直居中*/
+    /*只要三句好就可以实现不定垂直居中*/
+}
+.box>div{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}

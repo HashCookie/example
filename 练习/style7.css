@@ -1,0 +1,27 @@
+.divcss1{
+    border: red 1px solid;
+    width: 35%;
+    height: auto !important;/*高度自适应*/
+    min-height: 200px;/*假定最低高度是200px*/
+    float: left;/*左浮动*/
+}
+.divcss2{
+    border: red 1px solid;
+    height: auto !important;
+    min-height: 200px;
+    margin-left: 10px;
+    width: 25%;
+    float: left;
+}
+.divcss3{
+    border: red 1px solid;
+    height: auto !important;
+    min-height: 200px;
+    margin-left: 10px;
+    width: 38%;
+    float: right;
+}
+div{
+    width: 100%;
+    margin: 0;
+}
